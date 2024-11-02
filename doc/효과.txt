@@ -1,0 +1,47 @@
+<<<데스크탑>>>>
+background:
+
+각 제목(프로모션,제품군,후원중인 사업)에 각 링크 
+
+다크모드 : body검은배경, font흰색     
+                  제품군 박스 배경 흰색,폰트 검은색,
+ 
+라이트모드 : body흰색배경, font검은색  
+                  제품군 박스 배경 검은색, 폰트 흰색,
+
+중간제목 : color #00a
+
+
+<header>
+background:#8be
+header>header_bottom>gnb>li:hover>a{transform:scale(1.2)}
+header>header_bottom>gnb>li>.sub{background:#ededed에서 #f4f5f7 / }
+(NPS국민연금 메뉴) 
+								>li:hover{각 리스트 앞에 > 모양의 이미지가   一모양으로 접힘(소프트뱅크 메뉴 )
+
+<banner>
+banner 하단에 로딩 타임바=> 시간 예측 가능
+슬라이드 갯수만큼 막대기 생성 => 슬라이드 갯수 파악 가능(막대기로 하거나 숫자로 하거나 둘 중 하나로 예정)
+해당 슬라이드 막대는 파란색으로....각 막대에 마우스 커서 대고 있으면 title로 제목 알려주기
+슬라이드 전개 일시정지 버튼
+구름 이미지 애니메이션으로
+     background:f8f8f8; 
+     life~: color #10d
+CSR 글자 시간차 나타나게 애니메이션
+
+3.background:#544CA7
+
+<프로모션>
+그래픽카드 이미지:hover{filter:brightness}
+
+<제품군>
+box border 애니메이션(top:0;left:0부터 시계방향)
+a>img:hover{해당 이미지 제외한 나머지 이미지 블러, 해당 이미지는 brightness
+
+<후원>
+CSR
+background : # FAFFC0
+ - 왼쪽 텍스트 {텍스트 박스 없다가 hover :스르륵 생기기 display:none->block,transition:all 0.7s}
+ - 오른쪽 지구이미지 {rotation animation } 
+ 
+     

@@ -1,0 +1,60 @@
+mainboards
+
+mpg-z790-carbon-wifi
+
+LGA 1700소켓 지원
+최대 7800Hz의 DDR5 메모리 지원(오버클럭 시)
+PCIe 5.0 슬롯, Lightning Gen 5 x4 M.2
+향상된 쿨링, 메모리 부스트,
+2.5G LAN 및 Intel Wi-Fi 6E 
+AUDIO BOOST 5
+
+=========================================================
+
+monitors
+
+Optix MPG321UR-QD
+
+IPS 패널
+99% Adobe RGB, 97% DCI-P3 및 82% Rec.2020
+144Hz UHD 1ms
+G-Sync지원
+HDR 600
+
+=========================================================
+
+desktops
+
+MEG Aegis Ti5 12th
+
+Intel® Core™ i9-12900K
+DDR5 memory
+MSI GeForce RTX™ 3090
+PCIe 5.0지원 
+2.5G + 1G 듀얼랜 및 Intel Wi-Fi 6E
+
+=========================================================
+
+laptops
+
+Raider GE77 HX - 12U
+
+Intel® Core™ i9-12900HX
+Window 11 Home / Pro
+GeForce RTX™ 3080 Ti 노트북 GPU 16GB GDDR6 지원
+99.9Whr 배터리 용량
+2Fan과 7개의 히트파이프로 높은 쿨링능력
+
+=========================================================
+
+vga
+
+GeForce RTX® 4090 SUPRIM X 24G
+
+24GB GDDR6X
+3 DP포트(v1.4a) + 1 HDMI (HDMI 2.1a)
+
+=========================================================
+peripherals
+
+키보드 , 마우스, 오디오, 컨트롤러, 마우스패드, 컴퓨터 케이스, 쿨러, 파워서플라이, 의자, 네트워크 장비 등 여러 제품이 준비 되어 있다.

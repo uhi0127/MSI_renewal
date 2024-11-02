@@ -1,0 +1,81 @@
+mainboards
+
+mpg-z790-carbon-wifi
+=========================================================
+monitors
+Optix MPG321UR-QD
+
+IPS Panel
+A content creation level color reproduction of 99% Adobe RGB, 97% DCI-P3 and 82% Rec.2020 by utilizing a dynamically engineered layer of Quantum Dot technology.
+UHD High Resolution – Games will look even better, displaying more details.
+144Hz Refresh Rate – Respond faster with smoother frames.
+1ms Response Time – Eliminate screen tearing and choppy frame rates.
+Gaming Intelligence – Gaming Intelligence is how we label software integrated MSI products. These products contain AI gaming features for gamers' specific needs.
+NVIDIA G-Sync Compatible – Prevent screen tearing or stuttering, producing ultra-smooth lag-free gameplay.
+HDMI™ 2.1-Best solution for console users. 4K 120Hz with HDMI™ interface.
+Gaming OSD App – Create the perfect viewing settings for your games.
+Adjustable Stand – Easily change the position of the monitor for maximum ergonomics.
+VESA DisplayHDR 600 – Stunning visuals through contrast and shadow adjustment.
+Night Vision – Smart black tuner to brighten your day by bringing out the fine details in dark areas.
+Mystic Light – The ultimate gaming finish.
+=========================================================
+desktops
+MEG Aegis Ti5 12th
+
+Up to 12th Generation Intel® Core™ i9 12900K gaming processor with DDR5 memory
+Intel® Core™ i9 - 12900K
+Up to MSI GeForce RTX™ 3090 Graphics card
+PCIe Gen 5 bandwidth support, improved workloads and render capabilities for enhanced gaming experience.
+Gaming Dial- Quickly and intuitively harness this gaming beast
+Silent Storm Cooling 4 - Excellent heat dissipation design to ensure smooth operation of the game visuals
+2.5G + 1G Dual LAN - None delaying gaming experience
+WiFi 6E Technology wireless gaming with wired quality
+MSI Mystic Light, customize your gaming color
+Ambient Link support, immersive gaming experience
+=========================================================
+laptops
+Raider GE77 HX - 12U
+
+Up to latest Intel® Core™ i9-12900HX processor
+Windows 11 Home / Windows 11 Pro
+(MSI recommends Windows 11 Pro for business.)
+Up to latest GeForce RTX™ 3080 Ti Laptop GPU 16GB GDDR6
+Mystic Light with panoramic aurora lighting design
+MSI exclusive phase change thermal pad cooling solution
+17.3" UHD (3840x2160), 120 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)
+17.3" QHD (2560x1440), 240 Hz Refresh Rate, 100% DCI-P3(Typical), IPS-Level panel (Optional)
+99.9Whr Battery Capacity
+Cooler Boost 5 with 2 fans and 7 heat pipes
+MSI Center provides exclusive Gaming Mode, brand new SmartAuto, and Ambient Silent AI for best user experience.
+Per-Key RGB gaming keyboard by SteelSeries
+Duo Wave Speaker design by Dynaudio system
+=========================================================
+vga
+GeForce RTX® 4090 SUPRIM X 24G
+
+Cutting-Edge GPUs
+NVIDIA Ada Lovelace architecture
+
+Realistic and Immersive Graphics
+Dedicated Ray Tracing Cores
+
+AI-Accelerated Performance
+NVIDIA DLSS 3
+
+Game-Winning Responsiveness
+NVIDIA Reflex low-latency platform
+
+Built for Live Streaming
+NVIDIA Encoder
+
+AI-Enhanced Voice and Video
+NVIDIA Broadcast app
+
+Fast-Track Your Creativity
+NVIDIA Studio
+
+Performance and Reliability
+Game Ready and Studio Drivers
+=========================================================
+
+peripherals
